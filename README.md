@@ -2,7 +2,8 @@
 git, github education 자료 
 
 ## heading 2
-test
+test  
+Love**is**bold
 
 ### heading 3
 test3
